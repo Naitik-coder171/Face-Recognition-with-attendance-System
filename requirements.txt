@@ -1,4 +1,0 @@
-opencv-python==4.9.0.80
-insightface==0.7.3
-onnxruntime
-pandas
